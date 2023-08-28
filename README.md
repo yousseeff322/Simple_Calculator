@@ -56,5 +56,5 @@ The project has potential for expansion:
 - **Advanced Operations**: Add support for more advanced mathematical operations.
 - **User Interface**: Design a more user-friendly and intuitive interface on the LCD screen.
 
-![Image Alt Text]([direct_image_url_here](https://ibb.co/NKjMd7M)https://ibb.co/NKjMd7M)
+![Image Alt Text](https://ibb.co/NKjMd7M)
 
