@@ -56,4 +56,5 @@ The project has potential for expansion:
 - **Advanced Operations**: Add support for more advanced mathematical operations.
 - **User Interface**: Design a more user-friendly and intuitive interface on the LCD screen.
 
+![Screenshot 2023-08-28 011853](https://github.com/yousseeff322/Simple_Calculator/assets/119132407/5cceae1a-6042-4bba-83af-28ed63df5129)
 
